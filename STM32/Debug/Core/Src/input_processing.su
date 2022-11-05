@@ -1,0 +1,5 @@
+input_processing.c:39:6:init_fsm_input_processing	16	static
+input_processing.c:47:6:led_processing	8	static
+input_processing.c:55:6:blinking	8	static
+input_processing.c:62:6:fsm_for_pressed_pressed3s	16	static
+input_processing.c:87:6:main_fsm	8	static
